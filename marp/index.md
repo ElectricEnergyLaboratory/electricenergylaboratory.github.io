@@ -14,7 +14,7 @@ size: 4:3
 -->
 <!-- paginate: false -->
 
-# 福井大学電気電子情報工学科電気エネルギー研究室
+# 福井大電気電子工牧野哲征研究室
 
 Interests
 Papers / Lectures
