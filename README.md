@@ -6,5 +6,5 @@ docker run --rm --init -v $PWD:/home/marp/app/ -e LANG=$LANG marpteam/marp-cli i
 lab. website
 
 ```math
-\epsilon_1+i \epsilon_2 = 1 + i \frac{\4pi}{\omega} \left( \sigma_1+i\sigma_2 \right)
+\epsilon_1+i \epsilon_2 = 1 + i \frac{4\pi}{\omega} \left( \sigma_1+i\sigma_2 \right)
 ```
