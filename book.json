@@ -1,0 +1,8 @@
+{
+  "title":"牧野研究室のホームページ",
+  "description":"福井大学電気電子情報工学科牧野研究室",
+  "language":"ja",
+  "plugins": [
+      "-lunr", "-search", "search-pro-kui","katex"
+    ]
+}
