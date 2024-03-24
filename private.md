@@ -3,4 +3,4 @@
 # 研究室情報など
 
 
-研究室の情報については、[こちら](https://github.com/ElectricEnergyLaboratory/Plan/wiki), 研究室で研究を進める上でのコツなどについては、[こちら](https://github.com/ElectricEnergyLaboratory/ResearchTips). いずれもgithub private repositoriesですので、account取得し、招待をうけてからアクセスください。現在、検索性がよくないので、その改良については将来の課題とさせてください。
+研究室の情報については、[内部ページ](https://electricenergylaboratory.vercel.app). id and passwordについては、研究室のしっているひとから教わってください。このホムペには、てきぎ、github repoへのリンクをはっているので、github-account取得し、招待をうけてください。GitHub上のUIは閲覧に適しているとは言い難く、検索機能は貧弱で、メンバーが快適にドキュメントを閲覧できるようにするところには課題あったので、上記の認証つきホムペにラボドキュメントを保管することとしました。
