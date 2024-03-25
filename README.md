@@ -1,9 +1,15 @@
-# 牧野研究室の概要
+# 牧野哲征 (Makino, Takayuki)
 
+光物性の研究者です。
 
-当研究室は、福井市内文京キャンパスに存在する国立大学法人福井大学・工学部・電気電子情報工学科に所属し、教員スタッフ、大学院生および卒業研究生からなります。2020年から牧野は、福井大学遠赤外領域開発研究センターに主所属をうつしました。研究の内容は、赤外から紫外まで10兆分の1秒のパルス光を任意の波長で発生できるレーザー分光学評価装置を開発し、光を磁性体材料・光エネルギー変換材料・ワイドギャップ半導体などに当てて、ダイナミクスが発生するまでの電子の運動を詳しく観察しております。この現象をレーザーを組み合わせた新技術でさらに詳しく研究する準備を進めています。
-
-https://www.linkedin.com/in/takayuki-makino-002279153/
-
-https://github.com/YutaroIshihama
+- LinkedIn: https://www.linkedin.com/in/takayuki-makino-002279153/
+- GitHub: [YutaroIshihama](https://github.com/YutaroIshihama)
+- [教育研究者総覧](https://r-info.ad.u-fukui.ac.jp/Profiles/30/0002992/profile.html)
+- [orcid](https://orcid.org/0000-0002-5706-8909)
+- [researchmap](https://researchmap.jp/read0138615)
+- [researchgate](https://www.researchgate.net/profile/Takayuki-Makino)
+- [Web of Science](https://www.webofscience.com/wos/author/record/C-3949-2008)
+- electronic address: tmakino at u-fukui.ac.jp
+- telephone number: 0776-23-0500
+- place: University of Fukui, Fukui 910-8507, Japan
 
